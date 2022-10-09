@@ -1,0 +1,187 @@
+{
+"characters": 
+[ 
+    {
+    "id": 1,       
+    "name": " Harry Potter",
+    "status": " Alive",
+    "image": "https://hp-api.herokuapp.com/images/harry.jpg",
+    "origin": "half-blood" ,    
+    "location": "Gryffindor"
+},
+
+
+
+    {
+    "id": 2,       
+    "name": " Hermione Granger",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/hermione.jpeg",
+    "origin": "muggleborn" ,    
+    "location": "Gryffindor" 
+},
+
+
+ 
+    {
+    "id": 3,       
+    "name": " Ron Wesley",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/ron.jpg",
+    "origin": "pure-blood" ,    
+    "location": "Gryffindor" 
+},
+
+
+ 
+    {
+    "id": 4,       
+    "name": " Draco Malfoy",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/draco.jpg",
+    "origin": "pure-blood" ,    
+    "location": "Slytherin" 
+},
+
+
+
+    {
+    "id": 5,       
+    "name": "Minerva McGonagall",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/mcgonagall.jpg",
+    "origin": "Magician" ,    
+    "location": "Gryffindor" 
+},
+
+
+    {
+    "id": 6,       
+    "name": "Cedric Diggory",
+    "status": "Dead",
+    "image": "https://hp-api.herokuapp.com/images/cedric.png",
+    "origin": "Human" ,    
+    "location": "Hufflepuff" 
+},
+
+    {
+    "id": 7,       
+    "name": " Cho Chang",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/cho.jpg",
+    "origin": "Human" ,    
+    "location": "Ravenclaw" 
+},
+
+
+    {
+    "id": 8,       
+    "name": "Severus Snape",
+    "status": "Dead",
+    "image": "https://hp-api.herokuapp.com/images/snape.jpg",
+    "origin": "half-blood" ,    
+    "location": "Slytherin" 
+},
+
+{
+    "id": 9,       
+    "name": "Rubeus Hagrid",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/hagrid.png",
+    "origin": "half-giant" ,    
+    "location": "Gryffindor" 
+},
+{
+    "id": 10,       
+    "name": "Neville Longbottom",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/neville.jpg",
+    "origin": "Magician" ,    
+    "location": "Gryffindor" 
+},
+
+{
+    "id": 11,       
+    "name": "Luna Lovegood",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/luna.jpg",
+    "origin": "Magician" ,    
+    "location": "Ravenclaw" 
+},
+
+{
+    "id": 12,       
+    "name": "Ginny Weasley",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/ginny.jpg",
+    "origin": "pure-blood" ,    
+    "location": "Gryffindor" 
+},
+
+{
+    "id": 13,       
+    "name": "Sirius Black",
+    "status": "unknown",
+    "image": "https://hp-api.herokuapp.com/images/sirius.JPG",
+    "origin": "pure-blood" ,    
+    "location": "Gryffindor" 
+},
+
+{
+    "id": 14,       
+    "name": "Remus Lupin",
+    "status": "Dead",
+    "image": "https://hp-api.herokuapp.com/images/lupin.jpg",
+    "origin": "half-blood" ,    
+    "location": "Gryffindor" 
+},
+{
+    "id": 15,       
+    "name": "Arthur Weasley",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/arthur.jpg",
+    "origin": "pure-blood" ,    
+    "location": "Gryffindor" 
+},
+{
+    "id": 16,       
+    "name": "Bellatrix Lestrange",
+    "status": "Dead",
+    "image": "https://hp-api.herokuapp.com/images/bellatrix.jpg",
+    "origin": "pure-blood" ,    
+    "location": "Slytherin" 
+},
+{
+    "id": 17,       
+    "name": "Lord Voldemort",
+    "status": "unknown",
+    "image": "https://hp-api.herokuapp.com/images/voldemort.jpg",
+    "origin": "half-blood" ,    
+    "location": "Slytherin" 
+},
+{
+    "id": 18,       
+    "name": "Dolores Umbridge",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/umbridge.jpg",
+    "origin": "half-blood" ,    
+    "location": "Slytherin" 
+},
+{
+    "id": 19,       
+    "name": "Lucius Malfoy",
+    "status": "Alive",
+    "image": "https://hp-api.herokuapp.com/images/lucius.jpg",
+    "origin": "pure-blood" ,    
+    "location": "Slytherin" 
+},
+{
+    "id": 20,       
+    "name": "Gregory Goyle",
+    "status": "unknown",
+    "image": "https://hp-api.herokuapp.com/images/goyle.jpg",
+    "origin": "pure-blood" ,    
+    "location": "Slytherin" 
+}
+
+]}
